@@ -1,1 +1,1 @@
-# dsci_532_ia2_app_manju
+# dsci532_2022_ia2_qqs
